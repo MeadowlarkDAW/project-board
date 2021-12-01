@@ -2,6 +2,9 @@
 
 This repository is responsible for hosting the kanban-style project management system for [Meadowlark] and parts of [RustyDAW], an open-source Digital Audio Workstation project.
 
+- The [Meadowlark Project Board] for tracking development of the core DAW. (Note we are currently not accepting code contributions to the core project until things are more fleshed out and less "experimental". However, we will be accepting contributions to any DSP since that can easily be delegated and developed in parallel).
+- The [RustyDAW Plugins Project Board] for tracking development of the DSP and various plugins for use with the [RustyDAW] project (and by extension [Meadowlark]).
+
 *(I'm not a fan of how GitHub Projects assigns every task as an "issue" in that repository and clutters up the issues tab. So I'm using this repository as a dedicated place to hold all of the generated issues instead.)*
 
 # Get Involved
@@ -16,6 +19,8 @@ Before contributing or participating in discussions with the community, you shou
 
 # Useful links:
 
+- [Meadowlark Project Board]
+- [RustyDAW Plugins Project Board]
 - [Code of Conduct]
 - [Meadowlark] repository
 - [RustyDAW] GitHub organization
@@ -27,6 +32,8 @@ Before contributing or participating in discussions with the community, you shou
 - [rusty-daw-plugins] repository
 - [rusty-daw-plugin-ports] repository
 
+[Meadowlark Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/1
+[RustyDAW Plugins Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/2
 [Meadowlark]: https://github.com/MeadowlarkDAW/Meadowlark
 [Code of Conduct]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/CODE_OF_CONDUCT.md
 [MVP Design Document]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/DESIGN_DOC.md
