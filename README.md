@@ -2,10 +2,8 @@
 
 This repository is responsible for hosting the kanban-style project management system for [Meadowlark] and parts of [RustyDAW], an open-source Digital Audio Workstation project.
 
-- The [Meadowlark Project Board] for tracking development of the core DAW. (Note we are currently not accepting code contributions to the core project until things are more fleshed out and less "experimental". However, we will be accepting contributions to any DSP since that can easily be delegated and developed in parallel).
-- The [RustyDAW Plugins Project Board] for tracking development of the DSP and various plugins for use with the [RustyDAW] project (and by extension [Meadowlark]).
-
-*(I'm not a fan of how GitHub Projects assigns every task as an "issue" in that repository and clutters up the issues tab. So I'm using this repository as a dedicated place to hold all of the generated issues instead.)*
+- The [Meadowlark Project Board] for tracking development of the core DAW. (Note we are currently not accepting code contributions to the core project until things are more fleshed out and less "experimental". However, we *will* be accepting contributions in the `RustyDAW Plugins Project Board` since that can easily be delegated and developed in parallel).
+- The [RustyDAW Plugins Project Board] for tracking development of the DSP and various plugins for use with the RustyDAW project (and by extension Meadowlark).
 
 # Get Involved
 
@@ -44,3 +42,7 @@ Before contributing or participating in discussions with the community, you shou
 [rusty-daw-plugins]: https://github.com/RustyDAW/rusty-daw-plugins
 [DSP learning resources]: https://github.com/BillyDM/Awesome-Audio-DSP
 [rusty-daw-plugin-ports]: https://github.com/RustyDAW/rusty-daw-plugin-ports
+
+---
+
+*(I'm not a fan of how GitHub Projects assigns every task as an "issue" in that repository and clutters up the issues tab. So I'm using this repository as a dedicated place to hold all of the generated issues instead.)*
