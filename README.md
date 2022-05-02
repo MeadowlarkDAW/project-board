@@ -17,7 +17,7 @@ Before contributing or participating in discussions with the community, you shou
 
 # Useful links:
 
-- [Meadowlark Project Board]
+- [Meadowlark UI Project Board]
 - [RustyDAW Plugins Project Board]
 - [Code of Conduct]
 - [Meadowlark] repository
