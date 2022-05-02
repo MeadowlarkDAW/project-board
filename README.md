@@ -2,7 +2,7 @@
 
 This repository is responsible for hosting the kanban-style project management system for [Meadowlark] and parts of [RustyDAW], an open-source Digital Audio Workstation project.
 
-- The [Meadowlark Project Board] for tracking development of the core DAW. (Note we are currently not accepting code contributions to the core project until things are more fleshed out and less "experimental". However, we *will* be accepting contributions in the `RustyDAW Plugins Project Board` since that can easily be delegated and developed in parallel).
+- The [Meadowlark UI Project Board] for tracking development of the UI.
 - The [RustyDAW Plugins Project Board] for tracking development of the DSP and various plugins for use with the RustyDAW project (and by extension Meadowlark).
 
 # Get Involved
