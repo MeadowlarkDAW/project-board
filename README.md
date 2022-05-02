@@ -30,7 +30,7 @@ Before contributing or participating in discussions with the community, you shou
 - [rusty-daw-plugins] repository
 - [rusty-daw-plugin-ports] repository
 
-[Meadowlark Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/1
+[Meadowlark UI Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/1
 [RustyDAW Plugins Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/2
 [Meadowlark]: https://github.com/MeadowlarkDAW/Meadowlark
 [Code of Conduct]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/CODE_OF_CONDUCT.md
