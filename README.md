@@ -22,7 +22,7 @@ Before contributing or participating in discussions with the community, you shou
 - [Rust Audio Discord Server] (developers only please)
 - [DSP learning resources]
 
-[Meadowlark Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/1
+[Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/1
 [Meadowlark]: https://github.com/MeadowlarkDAW/Meadowlark
 [Code of Conduct]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/CODE_OF_CONDUCT.md
 [Design Document]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/DESIGN_DOC.md
