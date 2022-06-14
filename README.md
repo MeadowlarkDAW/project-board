@@ -12,8 +12,6 @@ Before contributing or participating in discussions with the community, you shou
 
 - We are also somewhat active in the [Rust Audio Discord Server] (developers only please). Please keep discussions there about Rust audio development in general and not about Meadowlark specifically.
 
-- Developers may take a look at the current [MVP Design Document]. Note we are currently not accepting code contributions to the core project until things are more fleshed out and less "experimental". However, we will be accepting contributions to any DSP since that can easily be delegated and developed in parallel. Take a look at the [DSP Design Document] if you are interested.
-
 # Useful links:
 
 - [Meadowlark Project Board]
@@ -25,17 +23,13 @@ Before contributing or participating in discussions with the community, you shou
 - [DSP learning resources]
 
 [Meadowlark Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/1
-[RustyDAW Plugins Project Board]: https://github.com/MeadowlarkDAW/project-board/projects/2
 [Meadowlark]: https://github.com/MeadowlarkDAW/Meadowlark
 [Code of Conduct]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/CODE_OF_CONDUCT.md
 [Design Document]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/DESIGN_DOC.md
-[DSP Design Document]: https://github.com/MeadowlarkDAW/Meadowlark/blob/main/DSP_DESIGN_DOC.md
 [RustyDAW]: https://github.com/RustyDAW
 [Meadowlark Discord Server]: https://discord.gg/2W3Xvc8wy4
 [Rust Audio Discord Server]: https://discord.gg/Qs2Zwtf9Gf
-[rusty-daw-plugins]: https://github.com/RustyDAW/rusty-daw-plugins
 [DSP learning resources]: https://github.com/BillyDM/Awesome-Audio-DSP
-[rusty-daw-plugin-ports]: https://github.com/RustyDAW/rusty-daw-plugin-ports
 
 ---
 
