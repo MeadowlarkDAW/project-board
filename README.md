@@ -14,7 +14,7 @@ Before contributing or participating in discussions with the community, you shou
 
 # Useful links:
 
-- [Meadowlark Project Board]
+- [Project Board]
 - [Code of Conduct]
 - [Meadowlark] repository
 - [Design Document]
